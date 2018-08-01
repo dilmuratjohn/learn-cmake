@@ -1,0 +1,8 @@
+/Users/duolikun/Desktop/workspace/learnCMake/demo/Demo7/CMakeFiles/install/strip.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/Demo7/CMakeFiles/install.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/Demo7/CMakeFiles/Demo.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/Demo7/CMakeFiles/list_install_components.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/Demo7/CMakeFiles/rebuild_cache.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/Demo7/CMakeFiles/edit_cache.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/Demo7/CMakeFiles/install/local.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/Demo7/CMakeFiles/test.dir

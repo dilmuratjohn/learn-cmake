@@ -1,0 +1,3 @@
+/Users/duolikun/Desktop/workspace/learnCMake/basis/CMakeFiles/rebuild_cache.dir
+/Users/duolikun/Desktop/workspace/learnCMake/basis/CMakeFiles/edit_cache.dir
+/Users/duolikun/Desktop/workspace/learnCMake/basis/CMakeFiles/Demo.dir

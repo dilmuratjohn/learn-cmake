@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/duolikun/Desktop/workspace/learnCMake/demo/demo3/main.cc
+stdio.h
+-
+stdlib.h
+-
+math/MathFunctions.h
+/Users/duolikun/Desktop/workspace/learnCMake/demo/demo3/math/MathFunctions.h
+
+/Users/duolikun/Desktop/workspace/learnCMake/demo/demo3/math/MathFunctions.h
+

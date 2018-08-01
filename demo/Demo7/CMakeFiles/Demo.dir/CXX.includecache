@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/duolikun/Desktop/workspace/learnCMake/demo/Demo7/main.cc
+stdio.h
+-
+stdlib.h
+-
+config.h
+-
+math.h
+-
+MathFunctions.h
+-
+
+config.h
+

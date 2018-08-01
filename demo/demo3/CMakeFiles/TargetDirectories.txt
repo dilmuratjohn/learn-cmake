@@ -1,0 +1,6 @@
+/Users/duolikun/Desktop/workspace/learnCMake/demo/demo3/CMakeFiles/rebuild_cache.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/demo3/CMakeFiles/edit_cache.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/demo3/CMakeFiles/Demo.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/demo3/math/CMakeFiles/rebuild_cache.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/demo3/math/CMakeFiles/edit_cache.dir
+/Users/duolikun/Desktop/workspace/learnCMake/demo/demo3/math/CMakeFiles/MathFunctions.dir
